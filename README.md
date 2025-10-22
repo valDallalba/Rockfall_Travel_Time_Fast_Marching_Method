@@ -11,6 +11,12 @@ L’objectif final est de produire :
 - 🧩 Une **classification des points d’impact** selon leur temps d’arrivée (déciles ou pourcentages),  
 - 📈 Des **cartes d’isochrones** et **zones d’impact probables**, exportées sous forme de rasters ou shapefiles.
 
+
+<p align="center">
+  <img src="images/summary_results" alt="Summary of the rock fall FFM classification method" width="600"/>
+</p>---
+
+
 ---
 
 ## ⚙️ Fonctionnement général
