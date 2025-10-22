@@ -13,7 +13,7 @@ L’objectif final est de produire :
 
 
 <p align="center">
-  <img src="images/summary_results.png" alt="Summary of the rock fall FFM classification method" width="800"/>
+  <img src="images/summary_results.png" alt="Summary of the rock fall FFM classification method" width="1200"/>
 </p>---
 
 
